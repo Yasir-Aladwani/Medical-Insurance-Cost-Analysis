@@ -190,6 +190,11 @@ medical-insurance-cost-analysis
 ├── README.md
 └── .gitattributes
 ```
+## Power BI Dashboard
+
+- [PDF Report](Medical_Insurance_Cost_Analysis_Report.pdf)
+
+---
 
 ## Conclusion
 
