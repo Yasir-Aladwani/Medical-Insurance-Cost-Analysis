@@ -196,16 +196,16 @@ medical-insurance-cost-analysis
 - [Download Power BI File](Medical_Insurance_Cost_Analysis.pbix)
 
 ### Home Page
-![Home Page](important_visualizations/dashboard_pages/page-1.png)
+![Home Page](important_visualizations/page-1.png)
 
 ### Cost Overview
-![Cost Overview](important_visualizations/dashboard_pages/page-2.png)
+![Cost Overview](important_visualizations/page-2.png)
 
 ### Cost Drivers
-![Cost Drivers](important_visualizations/dashboard_pages/page-3.png)
+![Cost Drivers](important_visualizations/page-3.png)
 
 ### Cost Breakdown
-![Cost Breakdown](important_visualizations/dashboard_pages/page-4.png)
+![Cost Breakdown](important_visualizations/page-4.png)
 
 ---
 
