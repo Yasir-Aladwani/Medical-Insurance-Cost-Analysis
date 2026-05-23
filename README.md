@@ -192,7 +192,20 @@ medical-insurance-cost-analysis
 ```
 ## Power BI Dashboard
 
-- [PDF Report](Medical_Insurance_Cost_Analysis_Report.pdf)
+- [View PDF Report](Medical_Insurance_Cost_Analysis.pdf)
+- [Download Power BI File](Medical_Insurance_Cost_Analysis.pbix)
+
+### Home Page
+![Home Page](important_visualizations/dashboard_pages/page-1.png)
+
+### Cost Overview
+![Cost Overview](important_visualizations/dashboard_pages/page-2.png)
+
+### Cost Drivers
+![Cost Drivers](important_visualizations/dashboard_pages/page-3.png)
+
+### Cost Breakdown
+![Cost Breakdown](important_visualizations/dashboard_pages/page-4.png)
 
 ---
 
